@@ -6,5 +6,6 @@ public class LangMain {
 
         System.out.println("hello java");
         System.out.println("hello java!!");
+        System.out.println("hello!");
     }
 }
